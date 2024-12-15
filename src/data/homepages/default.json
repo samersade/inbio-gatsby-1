@@ -1,0 +1,1293 @@
+{
+    "title": "consulting-home",
+    "content": [
+        {
+            "id": "consulting-hero",
+            "section": "hero-section",
+            "images": [
+                {
+                    "src": "../images/slider/111.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Samir Alsaade"
+                },
+                {
+                    "content": "Hi, I’m a"
+                }
+            ],
+            "animated_texts": ["Media Buyer.", "Social Media Specialist.", "Digital Marketing Manager."],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "CONTACT ME"
+                }
+            ]
+        },
+        {
+            "id": "default-home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Services"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Advertising Campaigns",
+                    "description": "Developing And Implementing Well-Structured Marketing Campaigns Across Various Channels To Promote Your Brand And Products, Increase Awareness, And Effectively Reach The Target Audience.",
+                    "icon": "Zap",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "Marketing Plans",
+                    "description": "Crafting Clear Strategies That Outline Marketing Objectives, Target Segments, Key Messaging, Chosen Channels, Budgets, And Timelines, Ensuring Maximum Impact From Your Marketing Efforts.",
+                    "icon": "Edit",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "Training Courses",
+                    "description": "Providing Professional Educational Programs That Enhance The Marketing Skills And Knowledge Of Individuals Or Teams, Improving Performance And Achieving Better Results.",
+                    "icon": "Clipboard",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Marketing Consulting",
+                    "description": "Offering Expert Guidance And Insights To Help Businesses Improve Their Strategies, Overcome Marketing Challenges, And Optimize Their Activities For Better Outcomes.",
+                    "icon": "Briefcase",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "Social Management",
+                    "description": "Managing And Organizing Social Media Profiles, Planning Content, Engaging With Followers, And Analyzing Performance To Build A Strong Online Presence And Enhance Brand Awareness.",
+                    "icon": "Users",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "Website Design",
+                    "description": "Creating Professional, User-Friendly Websites With Appealing Visuals And Seamless Navigation, Ensuring An Engaging Experience That Attracts Visitors And Converts Them Into Loyal Customers.",
+                    "icon": "Monitor",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "consulting-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Courses",
+                "subtitle": "Visit my Courses and keep your feedback"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Facebook & Instagram Ads",
+                    "category": "Marketing",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Google Ads & Shoping",
+                    "category": "Marketing",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Wordpress & Shopify",
+                    "category": "Website Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "consulting-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "7+ Years of Experience"
+            }
+        },
+        {
+            "id": "consulting-education",
+            "section": "education-section",
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2022"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Faculty of Economics",
+                            "subtitle": "(2007 - 2011)",
+                            "rating": "Damascus",
+                            "description": "I Have Acquired a Deep Understanding of Economic Theory, Financial Analysis, and Market Behavior. My Studies Have Equipped Me With Strong Skills In Quantitative Analysis, Economic Modeling."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Business Management",
+                            "subtitle": "(2012 - 2014)",
+                            "rating": "Abu Dhabi",
+                            "description": "I Have Gained a Solid Foundation In Business Principles, Including Leadership, Organizational Behavior, and Strategic Planning."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Digital Marketing Diploma",
+                            "subtitle": "(2020 - 2022)",
+                            "rating": "Istanbul",
+                            "description": "I Have Developed a Strong Understanding of Digital Marketing Strategies, Including SEO, Content Marketing, Social Media Management, and Online Advertising."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2011 - Present"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Website Design",
+                            "subtitle": "(2011 - 2015)",
+                            "rating": "Abu Dhabi",
+                            "description": "I Have Gained Expertise In Creating Visually Appealing and User-Friendly Websites. I Have Experience In Designing and Optimizing Websites For Various Devices, Ensuring Seamless User Experiences."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Search Engine Optimization",
+                            "subtitle": "(2015 - 2018)",
+                            "rating": "Istanbul",
+                            "description": "I Have Developed Strong Expertise In Search Engine Optimization (Seo), Focusing On Improving Website Visibility And Search Engine Rankings."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Marketing Manager",
+                            "subtitle": "(2018 - Present)",
+                            "rating": "Istanbul",
+                            "description": "I Have Gained Extensive Experience In Developing And Executing Marketing and Advertising Campaigns. My Work Involves Creating Compelling Content, Managing Brand Strategies, and Optimizing Campaigns."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "default-home-skill",
+            "section": "skill-section",
+            "title": "Experience",
+            "inner": [
+                {
+                    "id": "default-home-skill-left",
+                    "section_title": {
+                        "title": "Advertising Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Facebook",
+                            "value": 100
+                        },
+                        {
+                            "id": 2,
+                            "title": "Instagram",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "telegram",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "Google",
+                            "value": 85
+                        },
+                        {
+                            "id": 5,
+                            "title": "Snapchat",
+                            "value": 80
+                        },
+                        {
+                            "id": 6,
+                            "title": "Tiktok",
+                            "value": 75
+                        },
+                        {
+                            "id": 7,
+                            "title": "LinkedIn",
+                            "value": 70
+                        },
+                        {
+                            "id": 8,
+                            "title": "twitter",
+                            "value": 65
+                        }
+                    ]
+                },
+                {
+                    "id": "default-home-skill-right",
+                    "section_title": {
+                        "title": "Other skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "WordPress",
+                            "value": 100
+                        },
+                        {
+                            "id": 2,
+                            "title": "shopify",
+                            "value": 90
+                        },
+                        {
+                            "id": 3,
+                            "title": "Canva",
+                            "value": 85
+                        },
+                        {
+                            "id": 4,
+                            "title": "Microsoft Office",
+                            "value": 80
+                        },
+                        {
+                            "id": 5,
+                            "title": "Illustrator",
+                            "value": 75
+                        },
+                        {
+                            "id": 6,
+                            "title": "Photoshop",
+                            "value": 65
+                        },
+                        {
+                            "id": 7,
+                            "title": "Premiere Pro",
+                            "value": 45
+                        },
+                        {
+                            "id": 8,
+                            "title": "After Effects",
+                            "value": 35
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-experience",
+            "section": "experience-section",
+            "title": "experience",
+            "inner": [
+                {
+                    "id": "consulting-experience-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "consulting-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-interview",
+            "section": "interview-section",
+            "title": "interview",
+            "inner": [
+                {
+                    "id": "consulting-experience-left",
+                    "section_title": {
+                        "title": "Company Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "consulting-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-clients",
+            "section": "client-section",
+            "section_title": {
+                "title": "Certificates",
+                "subtitle": "Professional"
+            },
+            "inner": [
+                {
+                    "id": "clinet-js",
+                    "inner_title": "Google",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-design",
+                    "inner_title": "Semrush",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-wp",
+                    "inner_title": "Linkedin",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-react",
+                    "inner_title": "HubSpot",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "HubSpot SEO",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/hubspot-seo.webp"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "HubSpot SEO II",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/hubspot-seo-II.webp"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-to-laravel",
+                    "inner_title": "Meta",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "Smiths Marth",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "title": "Add Dev",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client4.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 5,
+                            "title": "John Due",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "title": "Adon Smith",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 7,
+                            "title": "Smitha Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "title": "Sultana Mila",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client2.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 9,
+                            "title": "Jannat",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 10,
+                            "title": "Mila Dus",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client5.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 11,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client1.png"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 12,
+                            "title": "Marth Smiths",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/client3.png"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "clinet-python",
+                    "inner_title": "X",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "X Ads Manger",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/X -Fundamentals-Badge.webp"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "title": "X for Creatives Badge",
+                            "path": "#!",
+                            "images": [
+                                {
+                                    "src": "../images/client/png/Twitter-for-Creatives-Badge.webp"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "inner_title": "Basic",
+                    "title": "Launch Your Business Now",
+                    "subtitle": "Basic Growth Package",
+                    "is_featured": false,
+                    "price": "$300.00",
+                    "description": "Start Now and Turn Your Idea Into a Successful Business With a Complete Plan Specifically for Your Growth",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Facebook Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Instagram Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Content Writing",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Social Media Management",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#contacts",
+                    "deliveryTime": 1,
+                    "revission": "Monthly "
+                },
+                {
+                    "id": "pricing-standard",
+                    "inner_title": "Standard",
+                    "title": "Launch Your Business Now",
+                    "subtitle": "Standard Growth Package",
+                    "is_featured": true,
+                    "price": "$500.00",
+                    "description": "Start Now and Turn Your Idea Into a Successful Business With a Complete Plan Specifically for Your Growth",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Facebook Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Instagram Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Google Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "TikTok Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "1 landing Page",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "Content Writing",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "Competitor Analysis",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Social Media Management",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#contacts",
+                    "deliveryTime": 1,
+                    "revission": "Monthly "
+                },
+                {
+                    "id": "pricing-premium",
+                    "inner_title": "Premium",
+                    "title": "Launch Your Business Now",
+                    "subtitle": "Premium Growth Package",
+                    "is_featured": false,
+                    "price": "$800.00",
+                    "description": "Start Now and Turn Your Idea Into a Successful Business With a Complete Plan Specifically for Your Growth",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Facebook Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Instagram Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Snapchat Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Google Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "TikTok Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "Twitter Ads",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "3 landing Page",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Content Writing",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "Marketing Study",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Competitor Analysis",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Social Media Management",
+                            "available": true
+                        },
+                        {
+                            "id": 12,
+                            "title": "Startup Creation & Planning",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#contacts",
+                    "deliveryTime": 1,
+                    "revission": "Monthly "
+                }
+            ]
+        },
+        {
+            "id": "consulting-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        },
+        {
+            "id": "default-home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Sameh Alnaal",
+                    "subtitle": "Rainbow-Themes",
+                    "designation": "Chief Operating Officer",
+                    "projectTitle": "Android App Development",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Contact With Me",
+                "subtitle": "Contact"
+            },
+            "images": [
+                {
+                    "src": "../images/contact/contact1.png"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Samir Alsaade"
+                },
+                {
+                    "content": "Chief Operating Officer"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I am available for freelance work. Connect with me via and call in to my account."
+                }
+            ]
+        }
+    ]
+}
